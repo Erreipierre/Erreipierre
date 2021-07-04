@@ -1,6 +1,6 @@
 READ ME
 
-For test purposes
+For test purporses
 
 
 
